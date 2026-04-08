@@ -1,0 +1,1 @@
+Click on the 2205132 folder to see the files. Combined.csv contains the merge of the 4 test case csv. We created individual HTML Report for each thread in each Website and the 2205132_csv folder contains the 4 aggregate csv reports for those tests. FInally there is a assesment doc file where i little summary regarding Execution time and metrics comparison is shown
